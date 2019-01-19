@@ -1,2 +1,2 @@
 # Ar-World-Cup-App
-need stadium image to scan to use app
+Ar World cup scan a stadium and infomation about the game from the world cup is displayed ie : need image to scan which is in the root folder
